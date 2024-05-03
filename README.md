@@ -1,6 +1,6 @@
 # Line-Follower-Robot
 Line Follower Robot Using Arduino
 
-In fisierul word, se regasesc informatii cu privire la componentele robotului, alaturi de modul de asamblare al acestuia.
+In the PDF file, you can find information about the components of the robot, along with its assembly instructions.
 
-In folderul cod_robot se regaseste fisierul .ino ce corespunde codului robotului.
+In the "code_robot" folder, you will find the .ino file corresponding to the robot's code.
